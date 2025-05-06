@@ -1,4 +1,4 @@
-name: send-message-to-vinay
+name: notify-user-for-vocab-lesson
 
 on:
   schedule:
