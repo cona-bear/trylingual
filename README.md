@@ -1,2 +1,2 @@
 # trylingual
-Slack Bot "Cona Bot" notify Vinay everyday for vocab lesson
+Slack Bot "Cona Bot" notify user everyday for vocab lesson
