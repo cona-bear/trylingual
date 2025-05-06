@@ -14,7 +14,7 @@ def build_message():
         "type": "section",
         "text": {
             "type": "mrkdwn",
-            "text": f":bell: *<Daily Reminder>* Hey {USER_ID}! Could you teach us English today? :meow_photo:"
+            "text": f":bell: *<Daily Reminder>* Hey @{USER_ID}! Could you teach us English today? :meow_photo:"
         }
     }]
 
